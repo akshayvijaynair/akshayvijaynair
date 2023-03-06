@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayvijaynair
 - 👀 I’m interested in all things Internet
-- 🌱 I’m currently learning Android Programmin
+- 🌱 I’m currently learning Android Programming
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me - I use the same handle on linkedIn
 
