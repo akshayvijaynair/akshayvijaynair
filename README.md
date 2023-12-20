@@ -10,8 +10,8 @@
 </p>
 
 ## Checkout my latest projects
-1. Designed the software system for a digital tutoring service as part of a course project. You will find details here: https://akshayvijaynair.github.io/music-academy-docs/
-2. Designed the quality assurance systems for an iOS healthcare applications. Details here: https://akshayvijaynair.github.io/poredocs/
+1. Designed the software system for a digital tutoring service. Docs: https://akshayvijaynair.github.io/music-academy-docs/
+2. Designed the quality assurance systems for an iOS healthcare applications. Doc: https://akshayvijaynair.github.io/poredocs/
 
 <!---
 akshayvijaynair/akshayvijaynair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
