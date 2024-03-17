@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshay V Nair
 =====================================================================================================================================
 
-Software Engineer | Software Architect
+Software Engineer | Aspiring Software Architect
 -----------------------------------------------
 
 Nerd. But I really like biiiiggg massive tech projects. I've helped build a couple so far as a software engineer. In those projects I built a custom CLI, a UI library, and overall helped out a team of 500 developers built out a product that is used by 30 million users. Nowadays, I'm a grad student studying in New York City.... and hunting for the next project.
