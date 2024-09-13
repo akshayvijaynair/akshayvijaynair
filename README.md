@@ -31,44 +31,56 @@ In those projects I built a custom CLI, a UI library, and overall helped out a t
 
 ## Experience
 
-### Speakhire, New York, USA
+### Software Intern @ Speakhire, New York, USA
 > [!IMPORTANT]
-> - Role: Software Intern
 > - Tenure: July 2024 – Current
 > - Brief: Re-architected features for a social education platform
 > - Keywords: Full stack development
 
-•       Designed and built 3 data intensive administrative features in a React application with Material UI
-•       Redesigned authenticated REST API architecture and consequently linked NoSQL database design to enable better cohesion
-•       Co-ordinated agile planning project and technical planning for 8 new features enabling quicker turnaround time 
+- Designed and built 3 data intensive administrative features in a React application with Material UI
+- Redesigned authenticated REST API architecture and consequently linked NoSQL database design to enable better cohesion
+- Co-ordinated agile planning project and technical planning for 8 new features enabling quicker turnaround time
 
-###  HSBC, Pune, MH, India
+> [!NOTE]
+> - Stack: React, Express, Node.Js, NoSQL, Azure
+> - Programming Languages: Javascript, Typescript
+> - Tools: Figma, Vite, GitHub, Material UI, Auth0
+
+###  Software Engineer - 3 @ HSBC, Pune, MH, India
 > [!IMPORTANT]
-> - Role: Software Engineer - 3
 > - Tenure: June 2020 – June 2023
 > - Brief: Process automation expert on front-end systems for web and mobile, contributing to more than 500 releases and 3 projects
 > - Keywords: Front-end system development | Process automation | Software architecture
 
-•	Managed, and led improvements to agile delivery efficiencies, and software development of 50 teams for a digital B2C platform 
-•	Facilitated highly collaborative environment with technical documentation on building highly usable UIs improving SLA by 50%
-•	Enhanced existing patterns of MVC frameworks like Angular, improving CI/CD workflow success rate by more than 30%
-•	Automated developer version control workflow by developing a custom NodeJS CLI, reducing refactoring time by 200 hours
-•	Led Development for a WCAG2.1 accessible and secure UI libraries and abstractions reducing team efforts by 80-100 hours 
-•	Spearheaded development of new middleware solutions with Webpack optimizing frequent release readiness of sites by 50%  
-•	Took the initiative in identifying issues by engineering a JavaScript deployment report web-app reducing analysis by 30%
-•	Abstracted Java complexities of hybrid cloud platform, reducing the training period of new developers by 2-3 weeks
+- Managed, and led improvements to agile delivery efficiencies, and software development of 50 teams for a digital B2C platform
+- Facilitated highly collaborative environment with technical documentation on building highly usable UIs improving SLA by 50%
+- Enhanced existing patterns of MVC frameworks like Angular, improving CI/CD workflow success rate by more than 30%
+- Automated developer version control workflow by developing a custom NodeJS CLI, reducing refactoring time by 200 hours
+- Led Development for a WCAG2.1 accessible and secure UI libraries and abstractions reducing team efforts by 80-100 hours
+- Spearheaded development of new middleware solutions with Webpack optimizing frequent release readiness of sites by 50%
+- Took the initiative in identifying issues by engineering a JavaScript deployment report web-app reducing analysis by 30%
+- Abstracted Java complexities of hybrid cloud platform, reducing the training period of new developers by 2-3 weeks
 
-###  HSBC, Pune,, MH, India
+> [!NOTE]
+> - Stack: Angular, Java, Node.Js, Adobe Experience Manager, Jetpack(Android), AWS
+> - Programming Languages: Javascript, Typescript, Java, Kotlin
+> - Tools: Figma, Splunk, AppDynamics, Jenkins, Webpack, Maven, GitHub
+
+###  Software Engineer @ HSBC, Pune, MH, India
 > [!IMPORTANT]
-> - Role: Software Engineer
-> - Tenure:	August 2015 – May 2020
+> - Tenure: August 2015 – May 2020
 > - Brief: Developed over 10 RESTful web applications using Java, Angular, HTML5, CSS3, with Typescript, and JavaScript
 > - Keywords: Front-End Developer | DevOps | Adobe Experience Manager
 
-•	Led efforts to abstract complexities of on-premise Adobe cloud infrastructure reducing development effort by 80 hours
-•	Spearheaded adoption of Adobe CMS, and for TypeScript programming for 3 projects driving developer ease of use
-•	Pioneered the configuration patterns for browser projects, enabling teams to rapidly scale to 30 markets over a 3-year period
-•	Led a weekly forum collating internal workflow issues and prototyped 12 solutions that improved release readiness of teams
+- Led efforts to abstract complexities of on-premise Adobe cloud infrastructure reducing development effort by 80 hours
+- Spearheaded adoption of Adobe CMS, and for TypeScript programming for 3 projects driving developer ease of use
+- Pioneered the configuration patterns for browser projects, enabling teams to rapidly scale to 30 markets over a 3-year period
+- Led a weekly forum collating internal workflow issues and prototyped 12 solutions that improved release readiness of teams
+
+> [!NOTE]
+> - Stack: Angular, Node.Js, Adobe Experience Manager
+> - Programming Languages: Javascript, Typescript, Java
+> - Tools: Sketch, Invission, Splunk, AppDynamics, Jenkins, Webpack, Maven, GitHub
 
 ## Badges
 
