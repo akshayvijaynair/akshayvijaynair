@@ -41,15 +41,10 @@ In those projects I built a custom CLI, a UI library, and overall helped out a t
 - Redesigned authenticated REST API architecture and consequently linked NoSQL database design to enable better cohesion
 - Co-ordinated agile planning project and technical planning for 8 new features enabling quicker turnaround time
 
-<details>
-<summary>Additional Details</summary>
-
 > [!NOTE]
 > - Stack: React, Express, Node.Js, NoSQL, Azure
 > - Programming Languages: Javascript, Typescript
 > - Tools: Figma, Vite, GitHub, Material UI, Auth0
-
-</details>
 
 ###  Software Engineer - 3 @ HSBC, Pune, MH, India
 > [!IMPORTANT]
@@ -66,15 +61,11 @@ In those projects I built a custom CLI, a UI library, and overall helped out a t
 - Took the initiative in identifying issues by engineering a JavaScript deployment report web-app reducing analysis by 30%
 - Abstracted Java complexities of hybrid cloud platform, reducing the training period of new developers by 2-3 weeks
 
-<details>
-<summary>Additional Details</summary>
-
 > [!NOTE]
 > - Stack: Angular, Java, Node.Js, Adobe Experience Manager, Jetpack(Android), AWS
 > - Programming Languages: Javascript, Typescript, Java, Kotlin
 > - Tools: Figma, Splunk, AppDynamics, Jenkins, Webpack, Maven, GitHub
 
-</details>
 
 ###  Software Engineer @ HSBC, Pune, MH, India
 > [!IMPORTANT]
@@ -87,15 +78,10 @@ In those projects I built a custom CLI, a UI library, and overall helped out a t
 - Pioneered the configuration patterns for browser projects, enabling teams to rapidly scale to 30 markets over a 3-year period
 - Led a weekly forum collating internal workflow issues and prototyped 12 solutions that improved release readiness of teams
 
-<details>
-<summary>Additional Details</summary>
-
 > [!NOTE]
 > - Stack: Angular, Node.Js, Adobe Experience Manager
 > - Programming Languages: Javascript, Typescript, Java
 > - Tools: Sketch, Invission, Splunk, AppDynamics, Jenkins, Webpack, Maven, GitHub
-
-</details>
 
 ## Badges
 
