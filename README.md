@@ -83,13 +83,8 @@ In those projects I built a custom CLI, a UI library, and overall helped out a t
 > - Tools: Sketch, Invission, Splunk, AppDynamics, Jenkins, Webpack, Maven, GitHub
 
 ## Badges
+- [Associate Degree In Software Engineering from IIIT-B](https://www.credential.net/f8109400-d152-46eb-8930-f4171108670c#acc.rfSkHoWz)
 
-<b>My GitHub Stats</b>
-<p align="center">
-<a href="http://www.github.com/akshayvijaynair"><img src="https://github-readme-stats.vercel.app/api?username=akshayvijaynair&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akshayvijaynair's GitHub stats" /></a>
-<a href="http://www.github.com/akshayvijaynair"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayvijaynair&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-<sub> Man! this sucks... I wish I could show the git stats from the internal apps...</sub>
 <!---
 akshayvijaynair/akshayvijaynair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
