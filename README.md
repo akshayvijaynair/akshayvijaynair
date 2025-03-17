@@ -8,13 +8,14 @@ Hi, This is Akshay Nair
 
 
 > [!IMPORTANT]
-> Graduating Master's student in Software Engineering with over 8+ years of hands-on involvement in software development and more than 4 years in architecture discipline. Proven leader in managing agile engineering teams delivering highly reliable, scalable, and maintainable web applications. Technical expert in front-end systems with ability to drive complex solutions
+> Software Product Engineer with 9 years of experience developing scalable, user-centric products and platforms. Specializes in front-end development with expertise in architectural strategy, delivering high-performance and maintainable web applications. Strong ability to navigate complex technical challenges through hands-on coding and system design.
+
 -----------------------------------------------
 
 Nerd. But I really like building digital tech projects that can scale. I've helped build a couple so far as a software engineer. 
 In those projects I built a custom CLI, a UI library, and overall helped out a team of 500 developers built out a product that is used by 30 million users. 
 
-* 🌍  Nowadays, I'm a grad student studying in New York City, working on my software architectural chops and helping a company digitize their processes.
+* 🌍  Nowadays, I'm leading efforts at a Speakhire, a non-profit, working on my software architectural chops and helping them digitize their processes.
 * 🖥️  See my portfolio at
      -   Designed the software system for a digital tutoring service. Docs: https://akshayvijaynair.github.io/music-academy-docs/
      -   Designed the quality assurance systems for an iOS healthcare applications. Doc: https://akshayvijaynair.github.io/poredocs/
@@ -30,15 +31,16 @@ In those projects I built a custom CLI, a UI library, and overall helped out a t
 
 ## Experience
 
-### Software Intern @ Speakhire, New York, USA
+### Lead Software Engineer @ Speakhire, New York, USA
 > [!IMPORTANT]
 > - Tenure: July 2024 – Current
-> - Brief: Re-architected features for a social education platform
+> - Brief: Designing and leading software implementation for an SaaS ed-tech product working with NYC Public schools
 > - Keywords: Full stack development
 
-- Designed and built 3 data intensive administrative features in a React application with Material UI
-- Redesigned authenticated REST API architecture and consequently linked NoSQL database design to enable better cohesion
-- Co-ordinated agile planning project and technical planning for 8 new features enabling quicker turnaround time
+- Collaborated with 4 clients to design and engineer 9 features with React, Express, PostgreSQL and Azure Services
+- Redesigned and migrated PostgreSQL database to new scalable structure to enabling faster feature rollout by 4x
+- Led architecture discussions and design review for the application, aligning with business priorities within 4 weeks of joining
+- Redesigned Azure architecture reducing costs by 30% and improved performance by 25% for a SaaS product built on Typescript  
 
 > [!NOTE]
 > - Stack: React, Express, Node.Js, NoSQL, Azure
@@ -51,14 +53,14 @@ In those projects I built a custom CLI, a UI library, and overall helped out a t
 > - Brief: Process automation expert on front-end systems for web and mobile, contributing to more than 500 releases and 3 projects
 > - Keywords: Front-end system development | Process automation | Software architecture
 
-- Managed, and led improvements to agile delivery efficiencies, and software development of 50 teams for a digital B2C platform
+- Managed, and led long term technical strategies, and software development of 50 teams for a digital B2C platform
 - Facilitated highly collaborative environment with technical documentation on building highly usable UIs improving SLA by 50%
 - Enhanced existing patterns of MVC frameworks like Angular, improving CI/CD workflow success rate by more than 30%
 - Automated developer version control workflow by developing a custom NodeJS CLI, reducing refactoring time by 200 hours
-- Led Development for a WCAG2.1 accessible and secure UI libraries and abstractions reducing team efforts by 80-100 hours
+- Owned development for a WCAG2.1 accessible and secure UI libraries and abstractions reducing team efforts by 80-100 hours
 - Spearheaded development of new middleware solutions with Webpack optimizing frequent release readiness of sites by 50%
-- Took the initiative in identifying issues by engineering a JavaScript deployment report web-app reducing analysis by 30%
-- Abstracted Java complexities of hybrid cloud platform, reducing the training period of new developers by 2-3 weeks
+- Took the initiative in identifying issues by engineering a real time deployment reporting web-app reducing analysis by 30%
+- Developed Java libraries for AWS-Adobe cloud platform, reducing developmental complexity for new applications by 2-3 weeks
 
 > [!NOTE]
 > - Stack: Angular, Java, Node.Js, Adobe Experience Manager, Jetpack(Android), AWS
