@@ -1,6 +1,6 @@
 Hi, This is Akshay Nair 
 =====================================================================================================================================
-<sub> Software Engineer | Software Architect | email: [akshay.v.nair@pace.edu](mailto:akshayvijaynair@gmail.com) </sub>
+<sub> Software Engineer | Software Architect | email: [akshayvijaynair@gmail.com](mailto:akshayvijaynair@gmail.com) </sub>
 
 ## Socials
 
